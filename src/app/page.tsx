@@ -8,12 +8,12 @@ import About from "@/app/components/About";
 export default function Home() {
   return (
     <div>
-      {/* <HeroSection />
+      <HeroSection />
       <Brand />
       <Ceramics />
       <PopularProducts />
       <Benefits />
-      <About /> */}
+      <About />
     </div>
   );
 }
